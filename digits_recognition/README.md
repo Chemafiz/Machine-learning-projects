@@ -1,6 +1,6 @@
 An attempt to train a classical (without neural networks) machine learning model for recognizing numbers using MNIST dataset.
 
-Done:
+Done:  
 -trained model and simple evaluation  
 
 In the future:
