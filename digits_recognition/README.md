@@ -2,9 +2,11 @@
 
 Done:  
 - trained model and simple evaluation  
-- a small program to recognize the numbers entered by the user in real time
-In the future:
-- training the model with the artificial neural networks (I have to learn it :) )
+- a small program to recognize the numbers entered by the user in real time  
+  
+  
+In the future:  
+- training the model with the artificial neural networks (I have to learn it :) )  
 
 
 Example of running program:
